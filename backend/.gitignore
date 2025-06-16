@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Log files
+logs/
+log/
+*.log
+
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+
+# Build and dist directories
+dist/
+build/
+
+# Coverage reports
+coverage/
+
+# Package lock (optional)
+package-lock.json
