@@ -47,19 +47,19 @@ A full-stack E-commerce application built using **Node.js**, **Express**, **Mong
 
 ## 📥 Installation
 
-```bash
+1. bash
 [git clone https://github.com/niteshkumar9631/E-commerceWebsite-.git]
 cd E-commerce
 
-Backend Setup:
+2. Backend Setup:
 cd backend
 npm install
 
-Frontend Setup:
+3. Frontend Setup:
 cd ../frontend
 npm install
 
-Admin Panel Setup:
+3. Admin Panel Setup:
 cd ../admin
 npm install
 
