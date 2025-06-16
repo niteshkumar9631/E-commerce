@@ -20,6 +20,12 @@ It includes user and admin dashboards, product management, secure authentication
 - Email notifications for orders using Nodemailer
 - Cloud-based image storage with Cloudinary
 
+🖼️ Screenshots
+Home
+- ![image](https://github.com/user-attachments/assets/eaf2067a-688c-4731-8fc3-cbab0a0d9ecb) ![image](https://github.com/user-attachments/assets/160533cb-c66e-4397-8907-be1eabe48cd8)
+- ![image](https://github.com/user-attachments/assets/3a1f4a0c-13f1-40d2-9546-2d86449bb789) ![image](https://github.com/user-attachments/assets/cc0a8132-00ba-49fb-8f70-fcf8aaf9335d)
+
+
 
 ---
 
@@ -103,4 +109,4 @@ npm run dev
 - Admin Panel on its own port (e.g., http://localhost:5174)
 
   📝 License
-This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
