@@ -43,6 +43,7 @@ git clone https://github.com/niteshkumar9631/E-commerceWebsite.git
 cd E-commerceWebsite
 
 🖥️ 2. Backend Setup:
+```
 cd backend
 npm install
 
