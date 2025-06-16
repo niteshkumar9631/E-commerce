@@ -6,7 +6,7 @@ A full-stack E-commerce application built using **Node.js**, **Express**, **Mong
 
 ## 🌐 Live Demo
 
-👉 [e-commerce-two-amber.vercel.app]()
+👉 
 
 ---
 
@@ -21,13 +21,7 @@ A full-stack E-commerce application built using **Node.js**, **Express**, **Mong
 
 ---
 
-## 🖼️ Project Structure
-E-commerce/
-│
-├── backend/ → Node.js + Express API
-├── frontend/ → React-based frontend
-├── admin/ → Admin dashboard panel
-
+## 🖼️ ScreenShots
 
 ---
 
@@ -54,22 +48,22 @@ E-commerce/
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/Gulshan36/E-commerce.git
+[git clone https://github.com/niteshkumar9631/E-commerceWebsite-.git]
 cd E-commerce
 
-## Backend Setup:
+Backend Setup:
 cd backend
 npm install
 
-## Frontend Setup:
+Frontend Setup:
 cd ../frontend
 npm install
 
-## Admin Panel Setup:
+Admin Panel Setup:
 cd ../admin
 npm install
 
-## 🔐 Environment Variables
+🔐 Environment Variables
 Create a .env file inside the backend folder and include the following:
 
 MONGODB_URI=              # MongoDB connection string
@@ -85,16 +79,16 @@ RAZORPAY_KEY_SECRET=      # Razorpay secret key
 EMAIL_USER=               # Email address for sending emails
 EMAIL_PASS=               # App/email password
 
-## ▶️ Run the Application
-## Backend
+▶️ Run the Application
+Backend
 cd backend
 npm run server
 
-## Frontend
+Frontend
 cd ../frontend
 npm run dev
 
-##Admin Panel
+Admin Panel
 cd ../admin
 npm run dev
 
@@ -104,5 +98,5 @@ Backend: http://localhost:4000
 
 Admin Panel: usually runs on http://localhost:5174
 
-## 📜 License
+📜 License
 This project is licensed under the MIT License.
