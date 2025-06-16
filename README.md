@@ -8,14 +8,18 @@ It includes user and admin dashboards, product management, secure authentication
 
 ---
 
-## 🔍 Features
+## 🚀 Features
 
-- ✅ User registration & login (JWT auth)
-- 🛍️ Product listings with detail pages
-- 🛒 Shopping cart and checkout
-- 📦 Order placement and order history
-- ⚙️ Admin dashboard for product/order management
-- 📱 Fully responsive design
+- User registration and login with JWT authentication
+- Product listing and detailed product pages
+- Shopping cart functionality
+- Order placement and order history
+- Admin panel for managing products and orders
+- Payment integration with Stripe and Razorpay
+- Responsive design for all screen sizes
+- Email notifications for orders using Nodemailer
+- Cloud-based image storage with Cloudinary
+
 
 ---
 
@@ -35,6 +39,9 @@ It includes user and admin dashboards, product management, secure authentication
 ---
 
 ## 🔧 Project Setup
+Prerequisites
+- Node.js and npm installed
+- MongoDB instance (local or cloud-based)
 
 ### 📁 1. Clone the Repository
 
@@ -47,3 +54,53 @@ cd E-commerceWebsite
 cd backend
 npm install
 ```
+🌐 3. Frontend Setup:
+```
+cd ../frontend
+npm install
+```
+🧑‍💼 4. Admin Panel Setup:
+```
+cd ../frontend
+npm install
+```
+🔐 Environment Variables (.env)
+Create a .env file inside the backend folder and add the following variables:
+```
+MONGODB_URI=              # MongoDB connection string
+CLOUDINARY_CLOUD_NAME=    # Cloudinary cloud name for image storage
+CLOUDINARY_API_KEY=       # Cloudinary API key
+CLOUDINARY_SECRET_KEY=    # Cloudinary API secret key
+JWT_SECRET=               # Secret key for JWT authentication
+ADMIN_EMAIL=              # Admin login email
+ADMIN_PASSWORD=           # Admin login password
+STRIPE_SECRET_KEY=        # Stripe API secret key for payments
+RAZORPAY_KEY_ID=          # Razorpay public key for payments
+RAZORPAY_KEY_SECRET=      # Razorpay secret key
+EMAIL_USER=               # Email address for sending emails
+EMAIL_PASS=               # App password or email password
+```
+▶️ Run the Application:
+Backend:
+```
+cd backend
+npm run server
+```
+Frontend:
+```
+cd ../frontend
+npm run dev
+```
+Admin Panel:
+```
+cd ../admin
+npm run dev
+```
+- Frontend available at: http://localhost:5173
+
+- Backend available at: http://localhost:4000
+
+- Admin Panel on its own port (e.g., http://localhost:5174)
+
+  📝 License
+This project is licensed under the MIT License.
