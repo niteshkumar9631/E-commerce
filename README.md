@@ -8,7 +8,7 @@ It includes user and admin dashboards, product management, secure authentication
 
 ---
 
-## 🚀 Features
+##  Features
 
 - User registration and login with JWT authentication
 - Product listing and detailed product pages
@@ -17,7 +17,6 @@ It includes user and admin dashboards, product management, secure authentication
 - Admin panel for managing products and orders
 - Payment integration with Stripe and Razorpay
 - Responsive design for all screen sizes
-- Email notifications for orders using Nodemailer
 - Cloud-based image storage with Cloudinary
 
 🖼️ Screenshots
@@ -57,8 +56,7 @@ It includes user and admin dashboards, product management, secure authentication
 | Frontend    | React, HTML, CSS, JavaScript           |
 | Backend     | Node.js, Express.js                    |
 | Database    | MongoDB                                |
-| Auth        | JSON Web Tokens (JWT)                  |
-| Emails      | Nodemailer                             |
+| Auth        | JSON Web Tokens (JWT)                  |                             
 | Payments    | Stripe / Razorpay                      |
 | Image Upload| Cloudinary                             |
 | Deployment  | Vercel (Frontend), Render/Heroku (Backend) |
