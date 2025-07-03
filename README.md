@@ -22,18 +22,19 @@ It includes user and admin dashboards, product management, secure authentication
 🖼️ Screenshots
 ## Home
 ![image](https://github.com/user-attachments/assets/ce832c93-47b8-43db-8f64-8c45d674a165)
- ![image](https://github.com/user-attachments/assets/160533cb-c66e-4397-8907-be1eabe48cd8)
-![image](https://github.com/user-attachments/assets/3a1f4a0c-13f1-40d2-9546-2d86449bb789)
-![image](https://github.com/user-attachments/assets/cc0a8132-00ba-49fb-8f70-fcf8aaf9335d)
+![image](https://github.com/user-attachments/assets/fe04def5-078e-4479-950d-ab0dd9afc7bf)
+![image](https://github.com/user-attachments/assets/6e56aa46-4386-41a0-8c29-5f34cd94cde0)
+![image](https://github.com/user-attachments/assets/131b0fff-b9ad-406a-9c65-79367e3c8fc5)
 
 ## Collection
-![image](https://github.com/user-attachments/assets/2456241c-7e88-4bd7-9640-639ebe9256ea) 
+![image](https://github.com/user-attachments/assets/63afb9bb-633c-4ae0-ae18-f5228936f060)
+![image](https://github.com/user-attachments/assets/e86af93a-6ed4-4682-90bd-07fa666909e3)
 
 ## About
-![image](https://github.com/user-attachments/assets/7d3ed0cc-615b-42b0-91f4-71e4de7dc1dd)
+![image](https://github.com/user-attachments/assets/1f856a6a-044c-41f3-9437-40b32e317226)
 
 ## content
-![image](https://github.com/user-attachments/assets/17079a27-8230-4539-bc17-0c1c151ae43a)
+![image](https://github.com/user-attachments/assets/6d833c09-53d6-40ac-bf8f-2bc1a5b5d535)
 
 ## cart
 ![image](https://github.com/user-attachments/assets/ff6b8690-52d9-4746-a61b-0ff38908e600)
