@@ -1,4 +1,4 @@
-# 🛒 E-commerce Website
+# 🛒 E-commerce
 
 A **full-stack E-commerce application** built with React, Node.js, Express, and MongoDB.  
 It includes user and admin dashboards, product management, secure authentication, and payment integration.
