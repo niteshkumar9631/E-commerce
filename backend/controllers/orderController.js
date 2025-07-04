@@ -2,8 +2,8 @@ import orderModel from "../models/orderModel.js";
 import userModel from "../models/userModel.js";
 import Stripe from "stripe";
 import razorpay from "razorpay";
-import { sendOrderEmail } from "../config/emailservice.js";
-import { sendInvoiceEmail } from "../config/emailservice.js";
+import { sendOrderEmail } from "../config/emailService.js";
+import { sendInvoiceEmail } from "../config/emailService.js";
 import { generateInvoice } from "../config/invoiceGenerator.js";
 
 
