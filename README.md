@@ -4,7 +4,7 @@ A responsive e-commerce web application built using the MERN stack (MongoDB, Exp
 
 ## 🔗  Live Demo
 
-(https://vercel.com/nitesh-kumars-projects-da572d47/e-commerce-frontend)
+https://e-commerce-frontend-ten-rust.vercel.app/
 
 
 
